@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "move_chess/1.0.0": {
+        "dependencies": {
+          "Chess_board": "1.0.0"
+        },
+        "runtime": {
+          "move_chess.dll": {}
+        }
+      },
+      "Chess_board/1.0.0": {
+        "runtime": {
+          "Chess_board.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "move_chess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Chess_board/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

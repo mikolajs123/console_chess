@@ -1,0 +1,9 @@
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\Chess_board\bin\Debug\netstandard2.0\Chess_board.deps.json
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\Chess_board\bin\Debug\netstandard2.0\Chess_board.dll
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\Chess_board\bin\Debug\netstandard2.0\Chess_board.pdb
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\Chess_board\obj\Debug\netstandard2.0\Chess_board.csprojAssemblyReference.cache
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\Chess_board\obj\Debug\netstandard2.0\Chess_board.AssemblyInfoInputs.cache
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\Chess_board\obj\Debug\netstandard2.0\Chess_board.AssemblyInfo.cs
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\Chess_board\obj\Debug\netstandard2.0\Chess_board.csproj.CoreCompileInputs.cache
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\Chess_board\obj\Debug\netstandard2.0\Chess_board.dll
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\Chess_board\obj\Debug\netstandard2.0\Chess_board.pdb

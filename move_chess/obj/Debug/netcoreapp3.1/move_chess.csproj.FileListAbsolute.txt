@@ -1,0 +1,16 @@
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\move_chess\bin\Debug\netcoreapp3.1\move_chess.exe
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\move_chess\bin\Debug\netcoreapp3.1\move_chess.deps.json
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\move_chess\bin\Debug\netcoreapp3.1\move_chess.runtimeconfig.json
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\move_chess\bin\Debug\netcoreapp3.1\move_chess.runtimeconfig.dev.json
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\move_chess\bin\Debug\netcoreapp3.1\move_chess.dll
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\move_chess\bin\Debug\netcoreapp3.1\move_chess.pdb
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\move_chess\bin\Debug\netcoreapp3.1\Chess_board.dll
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\move_chess\bin\Debug\netcoreapp3.1\Chess_board.pdb
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\move_chess\obj\Debug\netcoreapp3.1\move_chess.csprojAssemblyReference.cache
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\move_chess\obj\Debug\netcoreapp3.1\move_chess.AssemblyInfoInputs.cache
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\move_chess\obj\Debug\netcoreapp3.1\move_chess.AssemblyInfo.cs
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\move_chess\obj\Debug\netcoreapp3.1\move_chess.csproj.CoreCompileInputs.cache
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\move_chess\obj\Debug\netcoreapp3.1\move_chess.csproj.CopyComplete
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\move_chess\obj\Debug\netcoreapp3.1\move_chess.dll
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\move_chess\obj\Debug\netcoreapp3.1\move_chess.pdb
+C:\Users\raj68\Desktop\Mariusz C#\move_chess\move_chess\obj\Debug\netcoreapp3.1\move_chess.genruntimeconfig.cache
